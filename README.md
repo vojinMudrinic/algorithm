@@ -1,2 +1,2 @@
 # algorithm
-For Montecha
+The program will connect all points in the console
